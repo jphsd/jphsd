@@ -2,7 +2,7 @@
 
 First Java and then Go...
 
-Find me at these places -
-[Twitter|https://twitter.com/jphsd]
-[Instagram|https://www.instagram.com/jphsd/]
-[Reddit|https://www.reddit.com/user/jphsd]
+Find me at these places -  
+[Twitter: @jphsd](https://twitter.com/jphsd)  
+[Instagram: @jphsd](https://www.instagram.com/jphsd/)  
+[Reddit: u/jphsd](https://www.reddit.com/user/jphsd)
