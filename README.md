@@ -8,3 +8,5 @@ Find me at these places -
 - [Reddit: u/jphsd](https://www.reddit.com/user/jphsd)  
 - [X: @jphsd](https://x.com/jphsd) 
 - [Fosstodon.org: @jphsd](https://fosstodon.org/@jphsd)  
+
+Check out my [Gists](https://gists.github.com/jphsd) (okay, almost all of them are private...)
