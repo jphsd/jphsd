@@ -7,3 +7,5 @@ Find me at these places -
 - [Cara: @jphsd](https://cara.app/jphsd/all) 
 - [Instagram: @jphsd](https://www.instagram.com/jphsd/)  
 - [Reddit: u/jphsd](https://www.reddit.com/user/jphsd)  Oops, banned and all content deleted. No more free contributions from me Reddit.
+
+Gists are ©️CC-BY-NC
